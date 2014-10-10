@@ -1,5 +1,5 @@
 /_build
 /deps
-/models/repo.ex
+/web/models/repo.ex
 erl_crash.dump
 *.ez
