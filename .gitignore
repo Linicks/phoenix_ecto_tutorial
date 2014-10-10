@@ -1,0 +1,5 @@
+/_build
+/deps
+/models/repo.ex
+erl_crash.dump
+*.ez
