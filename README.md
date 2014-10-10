@@ -1,7 +1,7 @@
 # Elixir Jobs - A Tutorial
 
-## This code is based off of this tutorial:
-####Let's Build Web App With Phoenix and Ecto"
+#### This code is based off of this tutorial:
+#### Let's Build Web App With Phoenix and Ecto"
 * http://www.elixirdose.com/post/lets-build-web-app-with-phoenix-and-ecto
 
 To start this tutorial application you have to:
