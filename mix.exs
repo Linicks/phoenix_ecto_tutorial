@@ -4,7 +4,7 @@ defmodule ElixirJobs.Mixfile do
   def project do
     [ app: :elixir_jobs,
       version: "0.0.1",
-      elixir: "~> 1.0.0-rc1",
+      elixir: "~> 1.0.1",
       elixirc_paths: ["lib", "web"],
       deps: deps ]
   end
@@ -24,7 +24,7 @@ defmodule ElixirJobs.Mixfile do
   # { :barbat, "~> 0.1", github: "elixir-lang/barbat" }
   defp deps do
     [
-      {:phoenix, "0.4.1"},
+      {:phoenix, "~>0.5.0"},
       {:cowboy, "~> 1.0.0"},
       {:postgrex, "~> 0.6.0"},
       {:ecto, "~> 0.2.5"}
